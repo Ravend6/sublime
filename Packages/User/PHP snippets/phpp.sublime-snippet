@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+<?php
+use yii\helpers\Html;
+use yii\helpers\Url;
+use yii\helpers\ArrayHelper;
+use yii\widgets\ActiveForm;
+
+\$this->title = ${0:};
+?>
+
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>phpp</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.python</scope> -->
+</snippet>

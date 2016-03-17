@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"AutoFileName",
+		"Blade Snippets",
+		"EditorConfig",
+		"EJS",
+		"Emmet",
+		"HTML-CSS-JS Prettify",
+		"Jedi - Python autocompletion",
+		"Jinja2",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"Python PEP8 Autoformat",
+		"Sass",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-pep8",
+		"SublimeLinter-php"
+	]
+}

@@ -1,0 +1,1605 @@
+{
+	"folder_history":
+	[
+		"/D/JavaScript/workspace/webpack/webpack-angular",
+		"/D/JavaScript/workspace/angular/intro-packtpubt",
+		"/D/JavaScript/workspace/webpack/oreilly",
+		"/D/JavaScript/workspace/webpack/angular",
+		"/D/JavaScript/workspace/sails/ng-base",
+		"/D/JavaScript/workspace/sails/socialfleet",
+		"/D/JavaScript/workspace/sails",
+		"/D/JavaScript/workspace/sails/dashboard",
+		"/D/JavaScript/Helpers",
+		"/D/JavaScript/Helpers/sails",
+		"/D/Python/workspace/django/learn18",
+		"/D/Python/Helper",
+		"/D/Python/workspace/django/learn1.8",
+		"/D/Python/workspace/django/news-agg-tuts",
+		"/D/PHP/workspace/native/parser_junior",
+		"/D/PHP/workspace/laravel/board",
+		"/D/PHP/workspace/yii/blog",
+		"/D/PHP/workspace/yii/standart206",
+		"/D/PHP/workspace/yii/basic",
+		"/D/PHP/workspace/yii/highload/frontend/web",
+		"/D/PHP/workspace/yii/highload",
+		"/D/Python/workspace/django/treehouse_form",
+		"/D/PHP/workspace/yii/advanced",
+		"/D/PHP/workspace/symfony/todolist",
+		"/D/PHP/workspace/pure/mvc_blog",
+		"/D/PHP/workspace/laravel/laravel/taskhelp",
+		"/D/PHP/workspace/pure/junior_blog"
+	],
+	"last_version": 3103,
+	"last_window_id": 27,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 478.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"con",
+						"content"
+					],
+					[
+						"dele",
+						"deletePost"
+					],
+					[
+						"new",
+						"newPost"
+					],
+					[
+						"ng-c",
+						"ng-controller	AngularJS"
+					],
+					[
+						"ng-d",
+						"ng-disabled	AngularJS"
+					],
+					[
+						"date",
+						"datetime"
+					],
+					[
+						"lo",
+						"logout"
+					],
+					[
+						"auth",
+						"authorization"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"ng-",
+						"ng-click	AngularJS"
+					],
+					[
+						"ng",
+						"ng-click	AngularJS"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"dle",
+						"deleteTodo"
+					],
+					[
+						"dt",
+						"dataService"
+					],
+					[
+						"delete",
+						"deleteTodo"
+					],
+					[
+						"get",
+						"getTodos"
+					],
+					[
+						"data",
+						"dataService"
+					],
+					[
+						"se",
+						"service	AngularJS"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"bloc",
+						"inline-block"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"ng-re",
+						"ng-repeat	AngularJS"
+					],
+					[
+						"a",
+						"angular	AngularJS"
+					],
+					[
+						"ngcl",
+						"ng-click	AngularJS"
+					],
+					[
+						"ngc",
+						"ng-controller	AngularJS"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"borde",
+						"border-top"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"user",
+						"userData"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"ng-cl",
+						"ng-click	AngularJS"
+					],
+					[
+						"fune",
+						"fune	fune"
+					],
+					[
+						"bc",
+						"bcrypt"
+					],
+					[
+						"b",
+						"bg	background"
+					],
+					[
+						"req",
+						"request	param"
+					],
+					[
+						"max",
+						"max_length	None"
+					],
+					[
+						"form",
+						"forms	module"
+					],
+					[
+						"s",
+						"settings"
+					],
+					[
+						"re",
+						"re	re"
+					],
+					[
+						"Http",
+						"HttpResponse	class"
+					],
+					[
+						"r",
+						"register	function"
+					],
+					[
+						"I",
+						"IntegerField	class"
+					],
+					[
+						"ex",
+						"extracted	param"
+					],
+					[
+						"Fa",
+						"Faker	class"
+					],
+					[
+						"Djan",
+						"DjangoModelFactory	class"
+					],
+					[
+						"de",
+						"decorators	module"
+					],
+					[
+						"cl",
+						"class	keyword"
+					],
+					[
+						"is_",
+						"is_valid"
+					],
+					[
+						"Book",
+						"BookForm	class"
+					],
+					[
+						"Rev",
+						"ReviewList	class"
+					],
+					[
+						"he",
+						"help_text	''"
+					],
+					[
+						"A",
+						"AuthorDetail	class"
+					],
+					[
+						"D",
+						"DetailView	class"
+					],
+					[
+						"Author",
+						"AuthorList	class"
+					],
+					[
+						"H",
+						"HttpResponse	class"
+					],
+					[
+						"def",
+						"def	Function"
+					],
+					[
+						"Date",
+						"DateTimeField	class"
+					],
+					[
+						"v",
+						"vacancies"
+					],
+					[
+						"coll",
+						"collection"
+					],
+					[
+						"category",
+						"category_id"
+					],
+					[
+						"va",
+						"vacancy"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"pubf",
+						"pubsf	pubsf"
+					],
+					[
+						"pos",
+						"postOwnVova"
+					],
+					[
+						"per",
+						"permission"
+					],
+					[
+						"fun",
+						"fun	fun"
+					],
+					[
+						"vd",
+						"var_dump"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ide",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/JavaScript/workspace/webpack/angular/app/index.js",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/package.json",
+				"/D/JavaScript/workspace/webpack/oreilly/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/start-ng/.gitignore",
+				"/D/JavaScript/workspace/webpack/oreilly/package.json",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/aa.sublime-snippet",
+				"/D/JavaScript/workspace/webpack/angular/app/directives/index.js",
+				"/D/JavaScript/workspace/webpack/angular/app/directives/hello-world/hello-world.scss",
+				"/D/JavaScript/workspace/webpack/angular/app/directives/hello-world/hello-world.js",
+				"/D/JavaScript/workspace/webpack/angular/package.json",
+				"/D/JavaScript/Helpers/npm",
+				"/D/JavaScript/workspace/webpack/angular/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/init.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/Person.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/main-js.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/varibles/contact.scss",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/lol.scss",
+				"/D/JavaScript/workspace/webpack/oreilly/client/main-css.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/varibles/s.styl",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/main.styl",
+				"/D/JavaScript/workspace/webpack/oreilly/public/index.html",
+				"/D/JavaScript/Video/Webpack/O'Reilly - Module and Asset Bundling with webpack/Working Files/Module_and_Asset_Bundling_with_webpack_Working_Files/Module and Asset Bundling with webpack - Working Files/Chapter 1/complete 0108/webpack.config.js",
+				"/D/JavaScript/workspace/sails/socialfleet/package.json",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/ed.sublime-snippet",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/e.sublime-snippet",
+				"/D/JavaScript/workspace/webpack/oreilly/node_modules/bootstrap/dist/css/bootstrap.css",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/init.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/index.css",
+				"/D/JavaScript/workspace/webpack/base/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/styles/index.css",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/styles/lol.scss",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/main-css.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/main-js.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/main.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/person.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/index.js",
+				"/D/JavaScript/workspace/webpack/oreilly/index.html",
+				"/D/JavaScript/Video/Webpack/O'Reilly - Module and Asset Bundling with webpack/Working Files/Module_and_Asset_Bundling_with_webpack_Working_Files/Module and Asset Bundling with webpack - Working Files/Chapter 1/webpack-starter 0108/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/lol.html",
+				"/D/JavaScript/workspace/react/react-stack/.eslintrc",
+				"/D/JavaScript/workspace/react/react-stack/.jshintrc",
+				"/D/JavaScript/workspace/webpack/oreilly/src/scripts/index.js",
+				"/D/JavaScript/workspace/webpack/base/package.json",
+				"/D/JavaScript/workspace/webpack/angular/.gitignore",
+				"/D/JavaScript/Video/Angular/2016/Packtpub - Web Development with AngularJS and Bootstrap/9781784390419_Code/0419OS_Code/Just-shirts.com/Just-shirts.com/js/main.js",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/iife.sublime-snippet",
+				"/D/JavaScript/workspace/sails/socialfleet/gulpfile.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/index.html",
+				"/D/JavaScript/Video/Angular/2016/Lynda - AngularJS 1 - Building a Data-Driven App/Exercice Files/Ex_Files_AngularJS_DataDriven/Ex_Files_AngularJS_DataDriven/Exercise Files/ch01/01_02/angulardata/index.html",
+				"/D/PHP/workspace/laravel/laravel/zarnica/.editorconfig",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/app.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/styles/main.css",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/controllers/scheduler.controller.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/controllers/PostController.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/partials/scheduler.html",
+				"/D/JavaScript/workspace/sails/socialfleet/config/policies.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/policies/ownResource.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/partials/my-posts.html",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/controllers/post.controller.js",
+				"/C/Users/Ravend/Desktop/Новый текстовый документ.txt",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/localDiskDb.db",
+				"/D/JavaScript/workspace/sails/socialfleet/config/http.js",
+				"/D/JavaScript/workspace/sails/socialfleet/config/blueprints.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/templates/my-posts.html",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/controllers/login.controller.js",
+				"/D/JavaScript/workspace/sails/socialfleet/config/globals.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/models/Post.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/controllers/UserController.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/policies/jwtAuth.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/services/config.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/models/User.js",
+				"/D/PHP/Helpers/misc/resume.md",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/bob.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/feeffefe.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/feewwefefw.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/bbb.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/a.js",
+				"/D/JavaScript/workspace/sails/socialfleet/play.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/aaaaaaaa.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/fefefeef.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/fewfew.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/32r32r32.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/aa.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/aaa.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/1.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/lol.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/6.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/22.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/a/1.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/b.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/adwd.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/dd.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/z.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/ll.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/bb.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/aa.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/main.js",
+				"/D/JavaScript/workspace/sails/socialfleet/bower.json",
+				"/D/JavaScript/workspace/sails/socialfleet/.bowerrc",
+				"/D/JavaScript/workspace/sails/socialfleet/server/config/routes.js",
+				"/D/JavaScript/workspace/sails/socialfleet/client/gulpfile.js",
+				"/D/JavaScript/workspace/sails/socialfleet/server/bower.json",
+				"/D/JavaScript/workspace/sails/socialfleet/server/.bowerrc",
+				"/D/JavaScript/workspace/sails/socialfleet/server/package.json",
+				"/D/JavaScript/workspace/sails/socialfleet/config/models.js",
+				"/D/JavaScript/workspace/sails/dashboard/play.js",
+				"/D/JavaScript/Video/Angular 2/Udemy - The Complete Guide to Angular 2/01 Course Introduction/008 Code.html",
+				"/D/JavaScript/workspace/sails/ng-base/assets/index.html",
+				"/D/JavaScript/workspace/sails/ng-base/assets/js/templates/todos.html",
+				"/D/JavaScript/workspace/sails/ng-base/config/local.js",
+				"/D/JavaScript/workspace/sails/ng-base/assets/js/app.js",
+				"/D/JavaScript/workspace/sails/ng-base/assets/mock/todos.json",
+				"/D/JavaScript/workspace/sails/ng-base/assets/js/derectives/todos.js",
+				"/D/JavaScript/workspace/sails/ng-base/assets/js/hello-world.js",
+				"/D/JavaScript/workspace/sails/ng-base/assets/js/todos.json",
+				"/D/JavaScript/workspace/sails/ng-base/assets/styles/app.css",
+				"/D/JavaScript/workspace/sails/ng-base/app.js",
+				"/D/JavaScript/workspace/sails/ng-base/.jshintrc",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/Angular snippets/bash.sublime-snippet",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+				"/D/JavaScript/workspace/sails/ng-base/assets/styles/importer.less",
+				"/D/JavaScript/workspace/sails/ng-base/config/routes.js",
+				"/D/JavaScript/workspace/sails/dashboard/assets/index.html",
+				"/D/JavaScript/workspace/sails/ng-base/bower.json",
+				"/D/JavaScript/workspace/sails/dashboard/.sailsrc"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"Webpack",
+					"div",
+					"build",
+					"'./client/styles'",
+					"var",
+					"Webpack",
+					"$scope",
+					"data",
+					"message",
+					"bootstrap",
+					"link",
+					"profile",
+					":",
+					";",
+					" =",
+					"=",
+					"user.",
+					"String",
+					"config",
+					"appDev",
+					"assetsDevDir",
+					"scipts",
+					"lite",
+					"main",
+					", \"editing\": false",
+					"'",
+					"ng-click",
+					"paddin",
+					"margin",
+					"black",
+					"class",
+					"happy",
+					"password",
+					"username",
+					"ugettext",
+					"forms.py",
+					"Name",
+					" third party accounts",
+					"Please sign in with one of your existing third party ",
+					"send_email",
+					"<li>",
+					"inventory_view",
+					"views",
+					"index",
+					"item_datail",
+					"first_name",
+					"list_books",
+					"\"",
+					"is_favourite",
+					"author.name",
+					"book",
+					"HttpRequest",
+					"__str__",
+					"category",
+					"Категории",
+					"category",
+					"категорию",
+					"Town",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"vacancy",
+					"str",
+					"newVacancy",
+					"vacancy",
+					"models",
+					"model",
+					"title",
+					"test",
+					"index",
+					"tags",
+					"postTags",
+					"tags.id",
+					"users",
+					"user",
+					"model",
+					"post",
+					"string",
+					"sources",
+					"date",
+					"timezone",
+					"'",
+					"timezone",
+					"tag",
+					"post",
+					"th",
+					"updateOwnPost",
+					"updatePost",
+					"author",
+					"Author",
+					"author",
+					"backend",
+					"/../..",
+					"/..",
+					"p",
+					"strong",
+					"'",
+					"extension",
+					"image",
+					"php_apcu",
+					"extens",
+					"\"",
+					"dueDate",
+					"description",
+					"category",
+					"');\n",
+					"title"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 180.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Builds/node.sublime-build",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ad",
+						"news-agg-tuts\\books\\admin.py"
+					],
+					[
+						"rule",
+						"vendor\\yiisoft\\yii2\\rbac\\Rule.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 330.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1359.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"$loa",
+						"$location	AngularJS"
+					],
+					[
+						"t",
+						"ta	text-align"
+					],
+					[
+						"e",
+						"export"
+					],
+					[
+						"req",
+						"require"
+					],
+					[
+						"ng",
+						"ng-app	AngularJS"
+					],
+					[
+						"ng-v",
+						"ng-view	AngularJS"
+					],
+					[
+						"con",
+						"content"
+					],
+					[
+						"dele",
+						"deletePost"
+					],
+					[
+						"new",
+						"newPost"
+					],
+					[
+						"ng-c",
+						"ng-controller	AngularJS"
+					],
+					[
+						"ng-d",
+						"ng-disabled	AngularJS"
+					],
+					[
+						"date",
+						"datetime"
+					],
+					[
+						"lo",
+						"logout"
+					],
+					[
+						"auth",
+						"authorization"
+					],
+					[
+						"if",
+						"if	if"
+					],
+					[
+						"ng-",
+						"ng-click	AngularJS"
+					],
+					[
+						"text",
+						"text-decoration"
+					],
+					[
+						"fon",
+						"font-size"
+					],
+					[
+						"mar",
+						"margin-bottom"
+					],
+					[
+						"dle",
+						"deleteTodo"
+					],
+					[
+						"dt",
+						"dataService"
+					],
+					[
+						"delete",
+						"deleteTodo"
+					],
+					[
+						"get",
+						"getTodos"
+					],
+					[
+						"data",
+						"dataService"
+					],
+					[
+						"se",
+						"service	AngularJS"
+					],
+					[
+						"margin",
+						"margin-bottom"
+					],
+					[
+						"bloc",
+						"inline-block"
+					],
+					[
+						"in",
+						"inline"
+					],
+					[
+						"ng-re",
+						"ng-repeat	AngularJS"
+					],
+					[
+						"a",
+						"angular	AngularJS"
+					],
+					[
+						"ngcl",
+						"ng-click	AngularJS"
+					],
+					[
+						"ngc",
+						"ng-controller	AngularJS"
+					],
+					[
+						"fo",
+						"font-size"
+					],
+					[
+						"borde",
+						"border-top"
+					],
+					[
+						"inl",
+						"inline-block"
+					],
+					[
+						"user",
+						"userData"
+					],
+					[
+						"$sc",
+						"$scope	AngularJS"
+					],
+					[
+						"ng-cl",
+						"ng-click	AngularJS"
+					],
+					[
+						"fune",
+						"fune	fune"
+					],
+					[
+						"bc",
+						"bcrypt"
+					],
+					[
+						"b",
+						"bg	background"
+					],
+					[
+						"max",
+						"max_length	None"
+					],
+					[
+						"form",
+						"forms	module"
+					],
+					[
+						"s",
+						"settings"
+					],
+					[
+						"re",
+						"re	re"
+					],
+					[
+						"Http",
+						"HttpResponse	class"
+					],
+					[
+						"r",
+						"register	function"
+					],
+					[
+						"I",
+						"IntegerField	class"
+					],
+					[
+						"ex",
+						"extracted	param"
+					],
+					[
+						"Fa",
+						"Faker	class"
+					],
+					[
+						"Djan",
+						"DjangoModelFactory	class"
+					],
+					[
+						"de",
+						"decorators	module"
+					],
+					[
+						"cl",
+						"class	keyword"
+					],
+					[
+						"is_",
+						"is_valid"
+					],
+					[
+						"Book",
+						"BookForm	class"
+					],
+					[
+						"Rev",
+						"ReviewList	class"
+					],
+					[
+						"he",
+						"help_text	''"
+					],
+					[
+						"A",
+						"AuthorDetail	class"
+					],
+					[
+						"D",
+						"DetailView	class"
+					],
+					[
+						"Author",
+						"AuthorList	class"
+					],
+					[
+						"H",
+						"HttpResponse	class"
+					],
+					[
+						"def",
+						"def	Function"
+					],
+					[
+						"Date",
+						"DateTimeField	class"
+					],
+					[
+						"v",
+						"vacancies"
+					],
+					[
+						"coll",
+						"collection"
+					],
+					[
+						"category",
+						"category_id"
+					],
+					[
+						"va",
+						"vacancy"
+					],
+					[
+						"for",
+						"foreach	foreach …"
+					],
+					[
+						"pubf",
+						"pubsf	pubsf"
+					],
+					[
+						"pos",
+						"postOwnVova"
+					],
+					[
+						"per",
+						"permission"
+					],
+					[
+						"fun",
+						"fun	fun"
+					],
+					[
+						"vd",
+						"var_dump"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/JavaScript/workspace/angular/intro-packtpubt/package.json",
+					"settings":
+					{
+						"buffer_size": 1055,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/D/JavaScript/Install/Sublime Text 3/readme.txt",
+					"settings":
+					{
+						"buffer_size": 1152,
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/JavaScript/Install/Sublime Text 3/jshint/.jshintrc",
+					"settings":
+					{
+						"buffer_size": 54,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 354.0,
+				"last_filter": "Package Control: ",
+				"selected_items":
+				[
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					],
+					[
+						"ide",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"ins",
+						"Package Control: Install Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 454.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/D/JavaScript/Install/Sublime Text 3/jshint/.jshintrc",
+				"/D/JavaScript/Install/Sublime Text 3/emmet js set in key bindings.txt",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/config/routes.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/server/public/index.html",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/app.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/boot.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/controllers/MainController.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/controllers/HomeController.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/views/main.html",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/controllers/AboutController.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/controllers/ContactController.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/views/about.html",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/views/contact.html",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/main.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/directives/hello-webpack/hello-webpack.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/directives/hello-webpack/hello-webpack.html",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/app/directives/hello-webpack/hello-webpack.scss",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/vendor.js",
+				"/D/JavaScript/workspace/webpack/webpack-angular/package.json",
+				"/D/JavaScript/workspace/webpack/webpack-angular/client/styles/index.scss",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/client/main.js",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/server/public/index.html",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/webpack.config.js",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/client/styles/index.scss",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/.editorconfig",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/package.json",
+				"/D/JavaScript/Helpers/npm",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/client/scripts/controllers/MainController.js",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/client/scripts/app.js",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/public/index.html",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/client/vendor.js",
+				"/D/JavaScript/workspace/angular/intro-packtpubt/client/styles/varibles/contact.scss",
+				"/D/JavaScript/workspace/webpack/angular/app/index.js",
+				"/D/JavaScript/workspace/webpack/oreilly/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/start-ng/.gitignore",
+				"/D/JavaScript/workspace/webpack/oreilly/package.json",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/aa.sublime-snippet",
+				"/D/JavaScript/workspace/webpack/angular/app/directives/index.js",
+				"/D/JavaScript/workspace/webpack/angular/app/directives/hello-world/hello-world.scss",
+				"/D/JavaScript/workspace/webpack/angular/app/directives/hello-world/hello-world.js",
+				"/D/JavaScript/workspace/webpack/angular/package.json",
+				"/D/JavaScript/workspace/webpack/angular/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/init.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/Person.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/main-js.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/varibles/contact.scss",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/lol.scss",
+				"/D/JavaScript/workspace/webpack/oreilly/client/main-css.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/varibles/s.styl",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/main.styl",
+				"/D/JavaScript/workspace/webpack/oreilly/public/index.html",
+				"/D/JavaScript/Video/Webpack/O'Reilly - Module and Asset Bundling with webpack/Working Files/Module_and_Asset_Bundling_with_webpack_Working_Files/Module and Asset Bundling with webpack - Working Files/Chapter 1/complete 0108/webpack.config.js",
+				"/D/JavaScript/workspace/sails/socialfleet/package.json",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/ed.sublime-snippet",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/e.sublime-snippet",
+				"/D/JavaScript/workspace/webpack/oreilly/node_modules/bootstrap/dist/css/bootstrap.css",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/init.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/styles/index.css",
+				"/D/JavaScript/workspace/webpack/base/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/styles/index.css",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/styles/lol.scss",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/main-css.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/src/main-js.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/main.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/person.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/index.js",
+				"/D/JavaScript/workspace/webpack/oreilly/index.html",
+				"/D/JavaScript/Video/Webpack/O'Reilly - Module and Asset Bundling with webpack/Working Files/Module_and_Asset_Bundling_with_webpack_Working_Files/Module and Asset Bundling with webpack - Working Files/Chapter 1/webpack-starter 0108/webpack.config.js",
+				"/D/JavaScript/workspace/webpack/oreilly/client/scripts/lol.html",
+				"/D/JavaScript/workspace/react/react-stack/.eslintrc",
+				"/D/JavaScript/workspace/react/react-stack/.jshintrc",
+				"/D/JavaScript/workspace/webpack/oreilly/src/scripts/index.js",
+				"/D/JavaScript/workspace/webpack/base/package.json",
+				"/D/JavaScript/workspace/webpack/angular/.gitignore",
+				"/D/JavaScript/Video/Angular/2016/Packtpub - Web Development with AngularJS and Bootstrap/9781784390419_Code/0419OS_Code/Just-shirts.com/Just-shirts.com/js/main.js",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript snippets/iife.sublime-snippet",
+				"/D/JavaScript/workspace/sails/socialfleet/gulpfile.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/index.html",
+				"/D/JavaScript/Video/Angular/2016/Lynda - AngularJS 1 - Building a Data-Driven App/Exercice Files/Ex_Files_AngularJS_DataDriven/Ex_Files_AngularJS_DataDriven/Exercise Files/ch01/01_02/angulardata/index.html",
+				"/D/PHP/workspace/laravel/laravel/zarnica/.editorconfig",
+				"/C/Users/Ravend/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/app.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/styles/main.css",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/controllers/scheduler.controller.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/controllers/PostController.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/partials/scheduler.html",
+				"/D/JavaScript/workspace/sails/socialfleet/config/policies.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/policies/ownResource.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/partials/my-posts.html",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/controllers/post.controller.js",
+				"/C/Users/Ravend/Desktop/Новый текстовый документ.txt",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/localDiskDb.db",
+				"/D/JavaScript/workspace/sails/socialfleet/config/http.js",
+				"/D/JavaScript/workspace/sails/socialfleet/config/blueprints.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/templates/my-posts.html",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/controllers/login.controller.js",
+				"/D/JavaScript/workspace/sails/socialfleet/config/globals.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/models/Post.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/controllers/UserController.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/policies/jwtAuth.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/services/config.js",
+				"/D/JavaScript/workspace/sails/socialfleet/api/models/User.js",
+				"/D/PHP/Helpers/misc/resume.md",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/bob.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/feeffefe.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/feewwefefw.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/bbb.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/a.js",
+				"/D/JavaScript/workspace/sails/socialfleet/play.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/aaaaaaaa.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/fefefeef.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/fewfew.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/32r32r32.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/aa.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/aaa.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/1.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/lol.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/6.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/22.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/a/1.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/b.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/adwd.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/dd.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/z.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/ll.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/bb.js",
+				"/D/JavaScript/workspace/sails/socialfleet/.tmp/public/src/app/aa.js"
+			],
+			"find":
+			{
+				"height": 32.0
+			},
+			"find_in_files":
+			{
+				"height": 158.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"MainController",
+					"p",
+					"div",
+					"about",
+					"movieApp",
+					"init",
+					"scripts",
+					"styles",
+					"Webpack",
+					"div",
+					"build",
+					"'./client/styles'",
+					"var",
+					"Webpack",
+					"$scope",
+					"data",
+					"message",
+					"bootstrap",
+					"link",
+					"profile",
+					":",
+					";",
+					" =",
+					"=",
+					"user.",
+					"String",
+					"config",
+					"appDev",
+					"assetsDevDir",
+					"scipts",
+					"lite",
+					"main",
+					", \"editing\": false",
+					"'",
+					"ng-click",
+					"paddin",
+					"margin",
+					"black",
+					"class",
+					"happy",
+					"password",
+					"username",
+					"ugettext",
+					"forms.py",
+					"Name",
+					" third party accounts",
+					"Please sign in with one of your existing third party ",
+					"send_email",
+					"<li>",
+					"inventory_view",
+					"views",
+					"index",
+					"item_datail",
+					"first_name",
+					"list_books",
+					"\"",
+					"is_favourite",
+					"author.name",
+					"book",
+					"HttpRequest",
+					"__str__",
+					"category",
+					"Категории",
+					"category",
+					"категорию",
+					"Town",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"category",
+					"Category",
+					"vacancy",
+					"str",
+					"newVacancy",
+					"vacancy",
+					"models",
+					"model",
+					"title",
+					"test",
+					"index",
+					"tags",
+					"postTags",
+					"tags.id",
+					"users",
+					"user",
+					"model",
+					"post",
+					"string",
+					"sources",
+					"date",
+					"timezone",
+					"'",
+					"timezone",
+					"tag",
+					"post",
+					"th",
+					"updateOwnPost",
+					"updatePost",
+					"author",
+					"Author",
+					"author",
+					"backend",
+					"/../..",
+					"/..",
+					"p",
+					"strong",
+					"'",
+					"extension",
+					"image",
+					"php_apcu",
+					"extens",
+					"\"",
+					"dueDate",
+					"description",
+					"category",
+					"');\n",
+					"title"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 2,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/JavaScript/workspace/angular/intro-packtpubt/package.json",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1055,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/JavaScript/Install/Sublime Text 3/readme.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 1152,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/JavaScript/Install/Sublime Text 3/jshint/.jshintrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 54,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 32.0
+			},
+			"input":
+			{
+				"height": 70.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 180.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/Builds/node.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,693,156,156,1531",
+			"project": "",
+			"replace":
+			{
+				"height": 60.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ad",
+						"news-agg-tuts\\books\\admin.py"
+					],
+					[
+						"rule",
+						"vendor\\yiisoft\\yii2\\rbac\\Rule.php"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 272.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 27,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
